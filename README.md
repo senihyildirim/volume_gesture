@@ -22,7 +22,8 @@ This Python application enables volume control using hand gestures captured by a
    ```bash
    pip install opencv-python mediapipe
 
-    ```
+   
+
 2. Clone the repository:
 
    ```bash
@@ -38,6 +39,6 @@ This Python application enables volume control using hand gestures captured by a
 ## Usage
 
 - Distance between the index finger and the thumb controls the volume.
-- Move the index finger and the thumb closer to increase the volume.
-- Move the index finger and the thumb farther to decrease the volume.
+- Move the index finger and the thumb closer to decrease the volume.
+- Move the index finger and the thumb farther to increase the volume.
 
